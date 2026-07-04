@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Dynamic Programming
 |  |
 | ------- |
