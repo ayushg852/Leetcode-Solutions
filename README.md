@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Depth-First Search
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
