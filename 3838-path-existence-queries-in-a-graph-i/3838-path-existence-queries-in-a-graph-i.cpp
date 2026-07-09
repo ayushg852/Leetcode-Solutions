@@ -10,7 +10,7 @@ public:
             where[i]=cur;
         }
         vector<bool> ans;
-        for(auto v:queries)
+        for(auto &v:queries)
         {
             if(where[v[0]]==where[v[1]])
             ans.push_back(true);
