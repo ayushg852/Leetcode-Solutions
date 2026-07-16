@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
 | ------- |
@@ -174,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
