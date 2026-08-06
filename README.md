@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 ## Stack
 |  |
