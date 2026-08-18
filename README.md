@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
