@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
