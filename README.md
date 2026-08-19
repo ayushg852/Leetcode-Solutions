@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
+| [1646-kth-missing-positive-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1646-kth-missing-positive-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
