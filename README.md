@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
