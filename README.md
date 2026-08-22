@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
