@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Minimax
@@ -310,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -335,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
