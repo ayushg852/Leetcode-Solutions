@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2727-number-of-senior-citizens](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
+| [2727-number-of-senior-citizens](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
