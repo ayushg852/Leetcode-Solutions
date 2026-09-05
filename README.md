@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Breadth-First Search
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4285-smallest-stable-index-ii) |
 ## Number Theory
 |  |
