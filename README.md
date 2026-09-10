@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Dynamic Programming
 |  |
 | ------- |
