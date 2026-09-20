@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2727-number-of-senior-citizens](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3811-reverse-degree-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
