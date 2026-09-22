@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -392,9 +393,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
