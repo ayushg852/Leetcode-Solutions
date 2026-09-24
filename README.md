@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -425,4 +428,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
