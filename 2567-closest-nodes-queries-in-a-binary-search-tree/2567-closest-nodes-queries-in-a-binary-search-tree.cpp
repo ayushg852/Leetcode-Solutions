@@ -26,13 +26,17 @@ public:
         for(auto &x:queries)
         {
             auto it=lower_bound(v.begin(),v.end(),x);
-            auto jt=upper_bound(v.begin(),v.end(),x);
+            if(it!=v.end()&&(*it)==x)
+            {
+                ans.push_back({x,x});
+                continue;
+            }
             int mi=-1;
             int ma=-1;
             if(it!=v.end())
             ma=*it;
-            if(jt!=v.begin())
-            mi=*(prev(jt));
+            if(it!=v.begin())
+            mi=*(prev(it));
             ans.push_back({mi,ma});
         }
         return ans;
