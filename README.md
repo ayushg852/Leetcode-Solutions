@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4285-smallest-stable-index-ii) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
