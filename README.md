@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2727-number-of-senior-citizens](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -404,14 +407,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
