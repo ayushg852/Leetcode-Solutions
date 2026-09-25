@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4285-smallest-stable-index-ii) |
+| [4323-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4323-count-subarrays-with-even-odd-ratio-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4285-smallest-stable-index-ii) |
+| [4323-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4323-count-subarrays-with-even-odd-ratio-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -385,18 +387,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [4323-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4323-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [4323-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4323-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [4323-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4323-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [4323-count-subarrays-with-even-odd-ratio-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4323-count-subarrays-with-even-odd-ratio-i) |
 ## Ordered Set
 |  |
 | ------- |
