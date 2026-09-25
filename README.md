@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
+| [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
+| [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
