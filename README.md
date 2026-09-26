@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1769-get-maximum-in-generated-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
