@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2509-minimize-xor](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
 ## Sorting
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
+| [2509-minimize-xor](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
