@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
