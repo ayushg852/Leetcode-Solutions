@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
