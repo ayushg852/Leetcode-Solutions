@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-get-maximum-in-generated-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3486-count-the-number-of-good-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3486-count-the-number-of-good-nodes) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -527,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+## DP on Trees
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 <!---LeetCode Topics End-->
