@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
+| [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
