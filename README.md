@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3541-report-spam-message](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3541-report-spam-message) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
