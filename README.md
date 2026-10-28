@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
+| [1254-number-of-closed-islands](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
