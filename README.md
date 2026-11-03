@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1769-get-maximum-in-generated-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
+| [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2509-minimize-xor](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2509-minimize-xor) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3265-maximum-good-subarray-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3265-maximum-good-subarray-sum) |
