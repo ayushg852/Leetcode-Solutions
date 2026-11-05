@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3541-report-spam-message](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3541-report-spam-message) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Shortest Path
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3265-maximum-good-subarray-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3265-maximum-good-subarray-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3541-report-spam-message](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3541-report-spam-message) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3371-harshad-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3462-vowels-game-in-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
