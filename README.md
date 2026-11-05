@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0804-rotated-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0804-rotated-digits) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0804-rotated-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0804-rotated-digits) |
