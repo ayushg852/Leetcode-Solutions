@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
