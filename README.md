@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1769-get-maximum-in-generated-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
