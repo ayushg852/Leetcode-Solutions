@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
+| [1882-process-tasks-using-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1514-path-with-maximum-probability](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
+| [1882-process-tasks-using-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
