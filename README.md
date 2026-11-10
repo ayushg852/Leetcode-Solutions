@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3265-maximum-good-subarray-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3265-maximum-good-subarray-sum) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sorting
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
