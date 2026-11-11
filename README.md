@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-xor-for-each-query](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3265-maximum-good-subarray-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3265-maximum-good-subarray-sum) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
