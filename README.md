@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-frequency-tracker](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2778-frequency-tracker) |
+| [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3265-maximum-good-subarray-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3265-maximum-good-subarray-sum) |
