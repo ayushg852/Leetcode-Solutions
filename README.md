@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0890-find-and-replace-pattern](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2128-reverse-prefix-of-word](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2128-reverse-prefix-of-word) |
