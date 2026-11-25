@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0849-maximize-distance-to-closest-person](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0890-find-and-replace-pattern](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
