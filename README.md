@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2365-task-scheduler-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2365-task-scheduler-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2487-optimal-partition-of-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2487-optimal-partition-of-string) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1769-get-maximum-in-generated-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1769-get-maximum-in-generated-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2365-task-scheduler-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
