@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3804-number-of-centered-subarrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-report-spam-message](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3541-report-spam-message) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3804-number-of-centered-subarrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3765-complete-prime-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
+| [3804-number-of-centered-subarrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 ## Simulation
 |  |
 | ------- |
