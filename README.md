@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
 | [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3360-stone-removal-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3371-harshad-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3371-harshad-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3462-vowels-game-in-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2365-task-scheduler-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2365-task-scheduler-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3811-reverse-degree-of-a-string](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3811-reverse-degree-of-a-string) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
