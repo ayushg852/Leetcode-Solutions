@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2401-longest-nice-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Hash Table
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-frequency-tracker](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2778-frequency-tracker) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
