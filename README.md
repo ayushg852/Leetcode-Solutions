@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
