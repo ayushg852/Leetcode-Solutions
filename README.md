@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3151-minimum-processing-time](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3151-minimum-processing-time) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3265-maximum-good-subarray-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3265-maximum-good-subarray-sum) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-maximum-xor-after-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2652-sum-multiples](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2652-sum-multiples) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3360-stone-removal-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3371-harshad-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3371-harshad-number) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3765-complete-prime-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
