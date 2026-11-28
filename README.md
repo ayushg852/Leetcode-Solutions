@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
