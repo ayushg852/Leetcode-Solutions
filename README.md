@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0890-find-and-replace-pattern) |
 | [0909-stone-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0909-stone-game) |
 | [0916-word-subsets](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0916-word-subsets) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1487-cinema-seat-allocation](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2039-sum-game](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2039-sum-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1222-remove-covered-intervals](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1267-count-servers-that-communicate](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
