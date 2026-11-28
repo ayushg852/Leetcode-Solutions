@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2808-minimum-seconds-to-equalize-a-circular-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2808-minimum-seconds-to-equalize-a-circular-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1881-closest-subsequence-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/1881-closest-subsequence-sum) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -713,4 +715,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
