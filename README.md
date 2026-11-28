@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4284-smallest-stable-index-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4284-smallest-stable-index-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ayushg852/Leetcode-Solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3804-number-of-centered-subarrays](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4083-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4083-stable-subarrays-with-equal-boundary-and-interior-sum) |
 ## String
 |  |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3765-complete-prime-number](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3765-complete-prime-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/ayushg852/Leetcode-Solutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4032-longest-subarray-with-at-most-k-distinct-prime-factors](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4032-longest-subarray-with-at-most-k-distinct-prime-factors) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/ayushg852/Leetcode-Solutions/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
